@@ -6,8 +6,8 @@ public:
     {
         if(k==profit.size())
         {
-            if(j>=minProfit and n>=i) return 1;
-            return 0;
+            if(j<minProfit || n<i) return 0;
+            return 1;
         }
         else if(n<i) return 0;
      
