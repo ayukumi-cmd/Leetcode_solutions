@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0464-can-i-win) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 # String
 |  |
@@ -22,8 +23,25 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0464-can-i-win) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 # Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0344-reverse-string) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0464-can-i-win) |
+# Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0464-can-i-win) |
+# Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0464-can-i-win) |
+# Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0464-can-i-win) |
