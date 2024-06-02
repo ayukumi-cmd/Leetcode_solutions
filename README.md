@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 # Binary Search
 |  |
@@ -22,3 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
+# Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0344-reverse-string) |
