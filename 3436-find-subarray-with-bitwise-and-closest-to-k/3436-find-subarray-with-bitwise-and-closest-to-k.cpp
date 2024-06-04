@@ -1,40 +1,67 @@
 class Solution {
-
 public:
-    int minimumDifference(vector<int>& nums, int k) {
-        int n = nums.size(), res, l = -1, r, b, and_val, new_and_val;
-        and_val = res = INT_MAX;
+    int findval(vector<vector<int>>& vp) {                          // Needs the <int> type
+        int Val = 0;
+        for (int i = 0; i < 32; i++) {
+            if (vp[i][0] == 0) {
+                Val += pow(2, i);
+            }
+        }
+        return Val;
+    }
 
-        vector<vector<int>> bits_count(n + 1, vector<int>(31, 0));
+    int minimumDifference(vector<int>& nums, int targetval) {
+        vector<vector<int>> vp(32, vector<int>(2, 0));
+        int minDiff = INT_MAX;
+        int n = nums.size();
+        int i = 0;
 
-        for (r = 0; r < n; r++) {
-            for (b = 0; b < 31; b++) {
-                if (nums[r] & (1 << b)) {
-                    bits_count[r + 1][b] = bits_count[r][b] + 1;
+        for (int j = 0; j < n; j++) {
+            for (int k = 0; k < 32; k++) {
+                int mask = (nums[j] & (1 << k));
+                if (mask == 0) {
+                    vp[k][0]++;
+                } else {
+                    vp[k][1]++;
                 }
             }
-            if (nums[r] <= k) {
-                res = min(res, k - nums[r]);
-                l = r;
-                and_val = INT_MAX;
-                continue;
-            }
-            and_val = and_val & nums[r];
-            while (and_val < k && l < r - 1) {
-                l++;
-                
-                new_and_val = 0;
-                for (b = 0; b < 31; b++) {
-                    if (bits_count[r + 1][b] - bits_count[l + 1][b] == r - l) {
-                        new_and_val = new_and_val ^ (1 << b);
+            int current = findval(vp);
+            minDiff = min(minDiff, abs(targetval - current));
+
+            while (current < targetval && i<j) {                    // Changed both conditionals
+                                                                    // Only need when curr < k
+                for (int k = 0; k < 32; k++) {                      //   because curr increases when
+                    int mask = (nums[i] & (1 << k));                //   i is moved up, so answers
+                    if (mask == 0) {                                //   will only get worse
+                        vp[k][0]--;                                 // Also, i < j, not i <= j,
+                    } else {                                        //   because we can't have an
+                        vp[k][1]--;                                 //   empty sub-array
                     }
                 }
-                res = min(res, abs(and_val - k));
-                and_val = new_and_val;
+                current = findval(vp);                              // Calculate and check only
+                minDiff = min(minDiff, abs(targetval- current));    //   after the change is done
+                i++;
             }
-            res = min(res, abs(and_val - k));
         }
 
-        return res;
+//         while (i < n) {                                          // Unnecessary since any
+//             minDiff = min(minDiff, abs(targetval- findval(vp))); //   useful values of i already
+                                                                    //   checked in last while loop
+//             for (int k = 0; k < 32; k++) {                       //   of main for loop
+//                 int mask = (nums[i] & (1 << k));
+//                 if (mask == 0) {
+//                     vp[k][0]--;
+//                 } else {
+//                     vp[k][1]--;
+//                 }
+//             }
+//             i++;
+//         }
+
+//         for(auto el:nums){                                       // Unnecessary, already checked
+//              minDiff=min( minDiff, abs(targetval-el));           //   in first part of main
+//         }                                                        //   for loop whenever j = i
+
+        return minDiff;
     }
 };
