@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1286-constrained-subsequence-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1286-constrained-subsequence-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 # Math
 |  |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 # Design
 |  |
 | ------- |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 # Data Stream
 |  |
 | ------- |
