@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 # Math
 |  |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 # Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 # Design
 |  |
 | ------- |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 # Data Stream
 |  |
 | ------- |
