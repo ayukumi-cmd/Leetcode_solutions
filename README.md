@@ -122,3 +122,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0876-hand-of-straights) |
+# Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
+# Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
+# Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
