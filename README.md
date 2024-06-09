@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0876-hand-of-straights](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0876-hand-of-straights) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0940-fruit-into-baskets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0464-can-i-win](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0464-can-i-win) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0993-tallest-billboard](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0993-tallest-billboard) |
