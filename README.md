@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [0344-reverse-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [0649-dota2-senate](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Backtracking
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 # Greedy
 |  |
@@ -144,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0126-word-ladder-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0876-hand-of-straights](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0876-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
@@ -213,3 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0126-word-ladder-ii) |
