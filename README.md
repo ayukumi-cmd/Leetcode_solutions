@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0876-hand-of-straights](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0876-hand-of-straights) |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1286-constrained-subsequence-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1286-constrained-subsequence-sum) |
 | [1489-pizza-with-3n-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 # Monotonic Queue
@@ -202,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Matrix
 |  |
 | ------- |
+| [0675-cut-off-trees-for-golf-event](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 # Counting Sort
 |  |
@@ -220,3 +223,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0126-word-ladder-ii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0675-cut-off-trees-for-golf-event) |
