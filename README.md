@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1217-relative-sort-array) |
 | [1286-constrained-subsequence-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1286-constrained-subsequence-sum) |
+| [1325-path-with-maximum-probability](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1489-pizza-with-3n-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -123,11 +124,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0399-evaluate-division](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1325-path-with-maximum-probability](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 # Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0399-evaluate-division) |
+| [1325-path-with-maximum-probability](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 # Queue
 |  |
@@ -170,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1286-constrained-subsequence-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1286-constrained-subsequence-sum) |
+| [1325-path-with-maximum-probability](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1489-pizza-with-3n-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 # Monotonic Queue
 |  |
