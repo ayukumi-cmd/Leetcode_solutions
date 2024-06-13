@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0876-hand-of-straights](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0876-hand-of-straights) |
 | [1489-pizza-with-3n-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
 # Graph
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1217-relative-sort-array) |
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Stack
 |  |
 | ------- |
