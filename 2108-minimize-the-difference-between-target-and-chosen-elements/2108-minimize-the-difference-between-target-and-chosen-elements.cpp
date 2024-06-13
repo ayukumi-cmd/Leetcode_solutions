@@ -16,7 +16,7 @@ public:
         }
         
         int res = INT_MAX;
-        for (int i = 0; i < 4901; i++) {
+        for (int i = 1; i < 4901; i++) {
             if (p[i]) {
                 res = min(res, abs(i - target));
             }
