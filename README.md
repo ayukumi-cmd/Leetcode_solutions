@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0940-fruit-into-baskets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0993-tallest-billboard](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0993-tallest-billboard) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1032-satisfiability-of-equality-equations) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0993-tallest-billboard](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0993-tallest-billboard) |
 | [1063-best-sightseeing-pair](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1063-best-sightseeing-pair) |
 | [1286-constrained-subsequence-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1286-constrained-subsequence-sum) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0967-minimum-falling-path-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 # Counting Sort
 |  |
