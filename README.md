@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0993-tallest-billboard](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0993-tallest-billboard) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1032-satisfiability-of-equality-equations) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0649-dota2-senate](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0876-hand-of-straights](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1489-pizza-with-3n-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0721-accounts-merge](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0876-hand-of-straights) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1217-relative-sort-array) |
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Counting Sort
 |  |
 | ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1217-relative-sort-array) |
 # Simulation
