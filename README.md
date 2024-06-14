@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3223-count-complete-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3223-count-complete-substrings) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 # Binary Search
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3223-count-complete-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3223-count-complete-substrings) |
 # Prefix Sum
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
+| [3223-count-complete-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3223-count-complete-substrings) |
 # Heap (Priority Queue)
 |  |
 | ------- |
