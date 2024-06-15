@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0330-patching-array) |
 | [0399-evaluate-division](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0399-evaluate-division) |
+| [0502-ipo](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0675-cut-off-trees-for-golf-event) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0330-patching-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0330-patching-array) |
+| [0502-ipo](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0502-ipo) |
 | [0649-dota2-senate](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0649-dota2-senate) |
 | [0876-hand-of-straights](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0502-ipo](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0502-ipo) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1286-constrained-subsequence-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1286-constrained-subsequence-sum) |
 | [1325-path-with-maximum-probability](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
@@ -218,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0502-ipo) |
 | [0721-accounts-merge](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
