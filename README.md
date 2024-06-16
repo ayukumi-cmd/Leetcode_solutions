@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0307-range-sum-query-mutable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0330-patching-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0330-patching-array) |
 | [0399-evaluate-division](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0502-ipo](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0502-ipo) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0794-swim-in-rising-water](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
@@ -342,8 +344,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 # Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+# Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+# Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
