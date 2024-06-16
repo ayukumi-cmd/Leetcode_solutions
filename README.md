@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1217-relative-sort-array) |
 | [1286-constrained-subsequence-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1286-constrained-subsequence-sum) |
+| [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1217-relative-sort-array) |
+| [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
+| [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 # Monotonic Stack
 |  |
 | ------- |
@@ -342,3 +346,4 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
+| [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
