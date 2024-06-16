@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2329-maximum-product-after-k-increments](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2636-maximum-subsequence-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2636-maximum-subsequence-score) |
+| [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3234-double-modular-exponentiation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3234-double-modular-exponentiation) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3234-double-modular-exponentiation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3234-double-modular-exponentiation) |
 # String
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1286-constrained-subsequence-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1286-constrained-subsequence-sum) |
 | [1489-pizza-with-3n-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
 # Two Pointers
 |  |
@@ -191,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
+| [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
 # Hash Table
 |  |
 | ------- |
@@ -239,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2636-maximum-subsequence-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2636-maximum-subsequence-score) |
+| [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
 # Stack
 |  |
 | ------- |
