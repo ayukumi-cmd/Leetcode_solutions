@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2636-maximum-subsequence-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2636-maximum-subsequence-score) |
 | [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3234-double-modular-exponentiation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3234-double-modular-exponentiation) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1489-pizza-with-3n-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
 # Two Pointers
 |  |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0971-shortest-bridge) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 # Counting Sort
 |  |
 | ------- |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0971-shortest-bridge) |
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 # Depth-First Search
 |  |
 | ------- |
