@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [3195-separate-black-and-white-balls](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3223-count-complete-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3223-count-complete-substrings) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2664-maximize-greatness-of-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2664-maximize-greatness-of-an-array) |
+| [3195-separate-black-and-white-balls](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 # Bit Manipulation
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2636-maximum-subsequence-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2636-maximum-subsequence-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2664-maximize-greatness-of-an-array) |
+| [3195-separate-black-and-white-balls](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
 # Graph
 |  |
