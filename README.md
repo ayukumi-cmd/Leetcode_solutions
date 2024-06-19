@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2240-intervals-between-identical-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2240-intervals-between-identical-elements) |
 | [2329-maximum-product-after-k-increments](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2240-intervals-between-identical-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2240-intervals-between-identical-elements) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2721-sum-of-distances](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2721-sum-of-distances) |
 | [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [2240-intervals-between-identical-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2240-intervals-between-identical-elements) |
 | [2721-sum-of-distances](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2721-sum-of-distances) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
