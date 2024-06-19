@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2329-maximum-product-after-k-increments](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
