@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1325-path-with-maximum-probability](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
+| [1326-sum-of-floored-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1326-sum-of-floored-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1489-pizza-with-3n-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1499-maximum-performance-of-a-team](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0464-can-i-win](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0464-can-i-win) |
 | [0523-continuous-subarray-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
+| [1326-sum-of-floored-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1326-sum-of-floored-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2402-maximum-xor-after-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2402-maximum-xor-after-operations) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1122-longest-duplicate-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1122-longest-duplicate-substring) |
 | [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
+| [1326-sum-of-floored-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1326-sum-of-floored-pairs) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -235,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0523-continuous-subarray-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1326-sum-of-floored-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1326-sum-of-floored-pairs) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2240-intervals-between-identical-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2240-intervals-between-identical-elements) |
