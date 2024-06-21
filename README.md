@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0300-longest-increasing-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0330-patching-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0330-patching-array) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0794-swim-in-rising-water](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0464-can-i-win](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0464-can-i-win) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
