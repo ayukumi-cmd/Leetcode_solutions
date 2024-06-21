@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2240-intervals-between-identical-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2240-intervals-between-identical-elements) |
 | [2329-maximum-product-after-k-increments](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
