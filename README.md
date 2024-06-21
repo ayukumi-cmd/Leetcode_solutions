@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2721-sum-of-distances](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2721-sum-of-distances) |
 | [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3234-double-modular-exponentiation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3234-double-modular-exponentiation) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 # Dynamic Programming
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1499-maximum-performance-of-a-team](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [2329-maximum-product-after-k-increments](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2636-maximum-subsequence-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2636-maximum-subsequence-score) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 # Monotonic Queue
 |  |
 | ------- |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 # Design
 |  |
 | ------- |
@@ -326,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 # Data Stream
 |  |
 | ------- |
@@ -401,12 +406,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 # Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 # Divide and Conquer
 |  |
 | ------- |
