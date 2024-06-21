@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1326-sum-of-floored-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1326-sum-of-floored-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1372-check-if-it-is-a-good-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1489-pizza-with-3n-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1499-maximum-performance-of-a-team](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1326-sum-of-floored-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1326-sum-of-floored-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1372-check-if-it-is-a-good-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1372-check-if-it-is-a-good-array) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2402-maximum-xor-after-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2402-maximum-xor-after-operations) |
 | [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
@@ -450,3 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1122-longest-duplicate-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1122-longest-duplicate-substring) |
+# Number Theory
+|  |
+| ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1372-check-if-it-is-a-good-array) |
