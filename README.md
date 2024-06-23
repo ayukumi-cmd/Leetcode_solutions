@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
+| [1694-make-sum-divisible-by-p](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1326-sum-of-floored-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1326-sum-of-floored-pairs) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1694-make-sum-divisible-by-p](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2240-intervals-between-identical-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2240-intervals-between-identical-elements) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1294-range-frequency-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1294-range-frequency-queries) |
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
+| [1694-make-sum-divisible-by-p](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [2240-intervals-between-identical-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2240-intervals-between-identical-elements) |
 | [2339-k-divisible-elements-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2339-k-divisible-elements-subarrays) |
 | [2721-sum-of-distances](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2721-sum-of-distances) |
