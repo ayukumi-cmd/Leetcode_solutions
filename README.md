@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2234-minimum-operations-to-make-the-array-k-increasing](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2234-minimum-operations-to-make-the-array-k-increasing) |
 | [2240-intervals-between-identical-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2240-intervals-between-identical-elements) |
 | [2329-maximum-product-after-k-increments](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
+| [2339-k-divisible-elements-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2339-k-divisible-elements-subarrays) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-maximum-xor-after-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2402-maximum-xor-after-operations) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [2240-intervals-between-identical-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2240-intervals-between-identical-elements) |
+| [2339-k-divisible-elements-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2339-k-divisible-elements-subarrays) |
 | [2721-sum-of-distances](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2721-sum-of-distances) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Enumeration
 |  |
 | ------- |
+| [2339-k-divisible-elements-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2339-k-divisible-elements-subarrays) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 # Matrix
@@ -446,10 +449,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2339-k-divisible-elements-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2339-k-divisible-elements-subarrays) |
 # Rolling Hash
 |  |
 | ------- |
 | [1122-longest-duplicate-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1122-longest-duplicate-substring) |
+| [2339-k-divisible-elements-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2339-k-divisible-elements-subarrays) |
 # Suffix Array
 |  |
 | ------- |
@@ -458,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1122-longest-duplicate-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1122-longest-duplicate-substring) |
+| [2339-k-divisible-elements-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2339-k-divisible-elements-subarrays) |
 # Number Theory
 |  |
 | ------- |
