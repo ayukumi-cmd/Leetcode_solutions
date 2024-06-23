@@ -7,16 +7,19 @@ class Solution {
         unordered_map<long long, long long> mp;
         long long sum = 0;
         long long res = 0;
-        mp[0] = 1; // To count subarrays that directly start from index 0
+        long long x=modii%m;
+        modii=modii-x;
+        // To count subarrays that directly start from index 0
 
         for (int i = 0; i < n; i++) {
             sum += nums[i];
-            long long modValue = (sum % m + m) % m;
-            long long target = (modValue - k + m) % m;
+            long long modValue = (sum + modii) % m;
+            long long target = (modValue - k +m) % m;
 
             if (mp.find(target) != mp.end()) {
                 res += mp[target];
             }
+            if(modValue==k){res++;}
 
             mp[modValue]++;
         }
