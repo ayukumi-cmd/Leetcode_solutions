@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2721-sum-of-distances](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2721-sum-of-distances) |
 | [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
+| [2915-count-of-interesting-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [2721-sum-of-distances](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2721-sum-of-distances) |
 | [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
+| [2915-count-of-interesting-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 # Hash Table
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2240-intervals-between-identical-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2240-intervals-between-identical-elements) |
 | [2339-k-divisible-elements-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2339-k-divisible-elements-subarrays) |
 | [2721-sum-of-distances](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2721-sum-of-distances) |
+| [2915-count-of-interesting-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3223-count-complete-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3223-count-complete-substrings) |
