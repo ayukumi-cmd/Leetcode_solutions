@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0464-can-i-win](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0464-can-i-win) |
+| [0629-k-inverse-pairs-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0629-k-inverse-pairs-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
