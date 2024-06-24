@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0940-fruit-into-baskets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0967-minimum-falling-path-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0971-shortest-bridge) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
