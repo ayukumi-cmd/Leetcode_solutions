@@ -1,26 +1,52 @@
 class Solution {
 public:
-    int minimumTime(string s) {
-    if ( s.size() == 1 and s.at(0) == '1') return 1;
-    if ( s.size() == 1 and s.at(0) == '0') return 0;
-    
-    vector<int> a( s.size() , 0);
-    
-    for ( auto i : s){
-        if ( i == '0') a.push_back(-1);
-        else a.push_back(1);
-    }
-    
-    int mn = INT_MAX;
-    int sum = 0;
-    
-    for( auto i : a){
-        sum += i;
+    string s;
+    int n;
+    vector<vector<int>>dp;
+    int rec(int level,int stage){
+        if(level == n){
+            return 0;
+        }
+        if(dp[level][stage] != -1) return dp[level][stage];
         
-        mn = min ( mn , sum);
-        if ( sum > 0) sum = 0;
+        int ans = INT_MAX;
+        if(stage == 0){
+            // stay in stage 0
+            ans = 1+rec(level+1,0);
+            
+            // choose stage 1 
+            if(s[level] == '0'){
+                ans = min(ans,rec(level+1,1));
+            }
+            else{
+                ans = min(ans,2+rec(level+1,1));
+            }
+            
+            // choose stage 2
+            ans = min(ans,1+rec(level+1,2));
+        }
+        if(stage == 1){
+            // stay in stage 1
+            if(s[level] == '0'){
+                ans = min(ans,rec(level+1,1));
+            }
+            else{
+                ans = min(ans,2+rec(level+1,1));
+            }
+            // choose stage 2
+            ans = min(ans,1+rec(level+1,2));
+        }
+        if(stage == 2){
+            // should stay in stage 2
+            ans = min(ans,1+rec(level+1,2));
+        }
+        return dp[level][stage] = ans;
     }
     
-    return s.size() + mn;
-}
+    int minimumTime(string _s) {
+         s = _s;
+        n = s.size();
+         dp.assign(n+1, vector<int>(3, -1));
+        return rec(0,0);
+    }
 };
