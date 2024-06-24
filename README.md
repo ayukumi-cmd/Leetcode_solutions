@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0319-bulb-switcher) |
 | [0464-can-i-win](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0464-can-i-win) |
 | [0523-continuous-subarray-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -474,3 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1372-check-if-it-is-a-good-array) |
+# Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0319-bulb-switcher) |
