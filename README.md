@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-find-common-characters](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1044-find-common-characters) |
 | [1122-longest-duplicate-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1122-longest-duplicate-substring) |
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
+| [1880-largest-merge-of-two-strings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1880-largest-merge-of-two-strings) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0344-reverse-string) |
+| [1880-largest-merge-of-two-strings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1880-largest-merge-of-two-strings) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2664-maximize-greatness-of-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2664-maximize-greatness-of-an-array) |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1489-pizza-with-3n-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1499-maximum-performance-of-a-team](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
+| [1880-largest-merge-of-two-strings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1880-largest-merge-of-two-strings) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
