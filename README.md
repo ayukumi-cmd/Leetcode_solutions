@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0794-swim-in-rising-water) |
 | [0971-shortest-bridge](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0971-shortest-bridge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1308-smallest-string-with-swaps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2439-longest-cycle-in-a-graph) |
 # Union Find
@@ -483,3 +484,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0319-bulb-switcher) |
+# Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
