@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1694-make-sum-divisible-by-p](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1706-min-cost-to-connect-all-points) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1489-pizza-with-3n-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1489-pizza-with-3n-slices) |
 | [1499-maximum-performance-of-a-team](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1880-largest-merge-of-two-strings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1880-largest-merge-of-two-strings) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -363,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1792-find-the-most-competitive-subsequence) |
 | [2227-sum-of-subarray-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2368-sum-of-total-strength-of-wizards](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2368-sum-of-total-strength-of-wizards) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
