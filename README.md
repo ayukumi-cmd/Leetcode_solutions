@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0321-create-maximum-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0330-patching-array) |
 | [0399-evaluate-division](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0321-create-maximum-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0344-reverse-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0344-reverse-string) |
 | [1880-largest-merge-of-two-strings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1880-largest-merge-of-two-strings) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0330-patching-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0502-ipo) |
 | [0649-dota2-senate](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0649-dota2-senate) |
@@ -340,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -355,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0321-create-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0943-sum-of-subarray-minimums) |
