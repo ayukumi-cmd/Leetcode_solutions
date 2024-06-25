@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 # Math
 |  |
 | ------- |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2339-k-divisible-elements-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2339-k-divisible-elements-subarrays) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 # Matrix
 |  |
 | ------- |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0971-shortest-bridge](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0971-shortest-bridge) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 # Counting Sort
 |  |
 | ------- |
