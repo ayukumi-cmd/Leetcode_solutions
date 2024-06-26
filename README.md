@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2402-maximum-xor-after-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2402-maximum-xor-after-operations) |
 | [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
 | [3199-distribute-candies-among-children-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3234-double-modular-exponentiation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3234-double-modular-exponentiation) |
 # String
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2339-k-divisible-elements-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2339-k-divisible-elements-subarrays) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3199-distribute-candies-among-children-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 # Matrix
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
 # Breadth-First Search
 |  |
