@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
 | [2915-count-of-interesting-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3107-maximum-spending-after-buying-items](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3107-maximum-spending-after-buying-items) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3190-minimum-operations-to-maximize-last-elements-in-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3190-minimum-operations-to-maximize-last-elements-in-arrays) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2636-maximum-subsequence-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2664-maximize-greatness-of-an-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3107-maximum-spending-after-buying-items](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3107-maximum-spending-after-buying-items) |
 | [3195-separate-black-and-white-balls](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
 # Graph
@@ -318,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2329-maximum-product-after-k-increments](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
 | [2636-maximum-subsequence-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2636-maximum-subsequence-score) |
+| [3107-maximum-spending-after-buying-items](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3107-maximum-spending-after-buying-items) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 # Monotonic Queue
 |  |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2636-maximum-subsequence-score) |
 | [2664-maximize-greatness-of-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2664-maximize-greatness-of-an-array) |
 | [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
+| [3107-maximum-spending-after-buying-items](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3107-maximum-spending-after-buying-items) |
 # Stack
 |  |
 | ------- |
@@ -394,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0971-shortest-bridge](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0971-shortest-bridge) |
 | [2108-minimize-the-difference-between-target-and-chosen-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2108-minimize-the-difference-between-target-and-chosen-elements) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3107-maximum-spending-after-buying-items](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3107-maximum-spending-after-buying-items) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 # Counting Sort
 |  |
