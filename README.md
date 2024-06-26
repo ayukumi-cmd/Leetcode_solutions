@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2402-maximum-xor-after-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2402-maximum-xor-after-operations) |
 | [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
 | [3199-distribute-candies-among-children-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3199-distribute-candies-among-children-i) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
 | [3234-double-modular-exponentiation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3234-double-modular-exponentiation) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2784-power-of-heroes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2784-power-of-heroes) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3230-remove-adjacent-almost-equal-characters) |
 # Two Pointers
 |  |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3199-distribute-candies-among-children-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3199-distribute-candies-among-children-i) |
+| [3200-number-of-strings-which-can-be-rearranged-to-contain-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3200-number-of-strings-which-can-be-rearranged-to-contain-substring) |
 | [3201-distribute-candies-among-children-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3212-count-the-number-of-good-partitions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3212-count-the-number-of-good-partitions) |
 # Breadth-First Search
