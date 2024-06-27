@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1032-satisfiability-of-equality-equations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1325-path-with-maximum-probability](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1706-min-cost-to-connect-all-points) |
+| [1916-find-center-of-star-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1916-find-center-of-star-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 # Shortest Path
