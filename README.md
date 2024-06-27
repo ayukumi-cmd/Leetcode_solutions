@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0319-bulb-switcher) |
+| [0390-elimination-game](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0390-elimination-game) |
 | [0464-can-i-win](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0464-can-i-win) |
 | [0523-continuous-subarray-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0523-continuous-subarray-sum) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0938-numbers-at-most-n-given-digit-set) |
@@ -533,3 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0390-elimination-game) |
