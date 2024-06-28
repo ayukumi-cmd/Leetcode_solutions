@@ -547,3 +547,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0390-elimination-game) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Bit Manipulation
+|  |
+| ------- |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+## Graph
+|  |
+| ------- |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+## Enumeration
+|  |
+| ------- |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+## Shortest Path
+|  |
+| ------- |
+| [3217-number-of-possible-sets-of-closing-branches](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+<!---LeetCode Topics End-->
