@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2329-maximum-product-after-k-increments](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2636-maximum-subsequence-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2636-maximum-subsequence-score) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1499-maximum-performance-of-a-team](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1499-maximum-performance-of-a-team) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2329-maximum-product-after-k-increments](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2329-maximum-product-after-k-increments) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2636-maximum-subsequence-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2636-maximum-subsequence-score) |
 | [3107-maximum-spending-after-buying-items](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3107-maximum-spending-after-buying-items) |
@@ -357,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2636-maximum-subsequence-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2636-maximum-subsequence-score) |
