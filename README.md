@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1325-path-with-maximum-probability](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2379-maximum-total-importance-of-roads) |
