@@ -29,7 +29,15 @@ public:
         for (auto& road : specialRoads) {
             int u = find(points.begin(), points.end(), make_pair(road[0], road[1])) - points.begin();
             int v = find(points.begin(), points.end(), make_pair(road[2], road[3])) - points.begin();
-            graph[u].push_back({v, road[4]});
+            int dist=INT_MAX;
+            for(auto it:graph[u]){
+                if(it.first==v){
+               dist= min({dist,it.second});
+               break;
+                }
+            }
+            dist= min(dist, road[4]);
+            graph[u].push_back({v, dist});
         }
 
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
