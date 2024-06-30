@@ -56,8 +56,6 @@ public:
                     unionset(u, v, parentAlice, rankAlice);
                     unionset(u, v, parentBob, rankBob);
                     edgesUsed++;
-                } else {
-                    cnt++;
                 }
             }
         }
@@ -70,16 +68,12 @@ public:
                 if (findparent(parentAlice, u) != findparent(parentAlice, v)) {
                     unionset(u, v, parentAlice, rankAlice);
                     edgesUsed++;
-                } else {
-                    cnt++;
-                }
+                } 
             } else if (type == 2) {
                 if (findparent(parentBob, u) != findparent(parentBob, v)) {
                     unionset(u, v, parentBob, rankBob);
                     edgesUsed++;
-                } else {
-                    cnt++;
-                }
+                } 
             }
         }
         for (int i = 1; i <= n; ++i) {
@@ -88,6 +82,6 @@ public:
             }
         }
 
-        return cnt;
+        return edges.size()-edgesUsed;
     }
 };
