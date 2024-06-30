@@ -557,6 +557,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
@@ -603,4 +604,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
