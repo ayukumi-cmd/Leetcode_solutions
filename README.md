@@ -604,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0587-erect-the-fence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0587-erect-the-fence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1293-three-consecutive-odds](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1293-three-consecutive-odds) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
@@ -627,4 +628,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Math
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0587-erect-the-fence) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
