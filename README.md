@@ -552,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 ## Graph
 |  |
@@ -583,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 ## Memoization
 |  |
@@ -608,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0587-erect-the-fence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0587-erect-the-fence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1293-three-consecutive-odds](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1293-three-consecutive-odds) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 ## Union Find
 |  |
@@ -650,4 +653,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Bitmask
+|  |
+| ------- |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 <!---LeetCode Topics End-->
