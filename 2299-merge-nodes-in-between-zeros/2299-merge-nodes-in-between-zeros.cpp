@@ -1,13 +1,4 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
+
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
@@ -22,12 +13,12 @@ public:
                 temp=temp->next;
                 sum+=temp->val;
                 }
-            node->next=new ListNode(sum);
-            node=node->next;
+            dummy->next=new ListNode(sum);
+            dummy=dummy->next;
             temp=temp->next;
             if(temp->next==nullptr){break;}
         }
-        return dummy->next;
+        return node->next;
     }
 };
 
