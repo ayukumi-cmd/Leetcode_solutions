@@ -7,6 +7,10 @@ public:
             }
             return; 
         }
+            if(target == 0) {
+                ans.push_back(ds); 
+                return;
+            }        
         // pick up the element 
         if(arr[ind] <= target) {
             ds.push_back(arr[ind]); 
