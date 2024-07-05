@@ -1,32 +1,33 @@
-
 class Solution {
 public:
-    vector<int> subsetSum;
-    vector<vector<int>> memo;
     
-    int solve(int child, int mask, int k, int n) {
-        if (child == k) return (mask == (1 << n) - 1) ? 0 : INT_MAX;
-        if (memo[child][mask] != -1) return memo[child][mask];
-
-        int res = INT_MAX;
-        for (int submask = mask; submask < (1 << n); submask = (submask + 1) | mask) {
-            res = min(res, max(subsetSum[submask ^ mask], solve(child + 1, submask, k, n)));
+    int result = INT_MAX;
+    int n;
+    
+    void solve(int idx, vector<int>& cookies, vector<int>& children, int k) {
+        if(idx == cookies.size()) {
+            
+            int ans = *max_element(begin(children), end(children));
+            result = min(result, ans);
+            return;
         }
-        return memo[child][mask] = res;
+        
+        int candy = cookies[idx];
+        for(int i = 0; i<k; i++) {
+            children[i] += candy;
+            
+            solve(idx+1, cookies, children, k);
+            
+            children[i] -= candy;
+        }
+        
     }
-
+    
     int distributeCookies(vector<int>& cookies, int k) {
-        int n = cookies.size();
-        subsetSum.resize(1 << n, 0);
-        for (int mask = 0; mask < (1 << n); ++mask) {
-            for (int i = 0; i < n; ++i) {
-                if (mask & (1 << i)) {
-                    subsetSum[mask] += cookies[i];
-                }
-            }
-        }
-
-        memo = vector<vector<int>>(k, vector<int>(1 << n, -1));
-        return solve(0, 0, k, n);
+        n = cookies.size();
+        vector<int> children(k);
+        solve(0, cookies, children, k);
+        
+        return result;
     }
 };
