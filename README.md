@@ -625,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 ## Union Find
 |  |
@@ -635,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
 | ------- |
@@ -694,10 +696,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
