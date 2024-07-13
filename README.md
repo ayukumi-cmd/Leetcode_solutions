@@ -653,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1522-stone-game-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1522-stone-game-iii) |
 | [1685-stone-game-v](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1685-stone-game-v) |
 | [1720-crawler-log-folder](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1720-crawler-log-folder) |
@@ -683,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0354-russian-doll-envelopes) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sliding Window
 |  |
@@ -729,12 +731,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0354-russian-doll-envelopes) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1788-stone-game-vi](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
