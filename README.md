@@ -648,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-linked-list-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0835-linked-list-components) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0981-delete-columns-to-make-sorted](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1240-stone-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1293-three-consecutive-odds) |
@@ -782,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0433-minimum-genetic-mutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0981-delete-columns-to-make-sorted](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1720-crawler-log-folder) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -811,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0992-delete-columns-to-make-sorted-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1788-stone-game-vi](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
