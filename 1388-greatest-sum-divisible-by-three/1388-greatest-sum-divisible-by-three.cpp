@@ -1,27 +1,10 @@
 class Solution {
 public:
-    int maxSumDivThree(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>> memo(n, vector<int>(3, -1));
-        return helper(nums, 0, 0, memo);
-    }
-
-    int helper(vector<int>& nums, int i, int remainder, vector<vector<int>>& memo) {
-        if (i == nums.size()) {
-            return remainder == 0 ? 0 : -1000000000;
-        }
-
-        if (memo[i][remainder] != -1) {
-            return memo[i][remainder];
-        }
-
-        // Include nums[i]
-        int exclude = helper(nums, i + 1, remainder, memo);
-        int include = helper(nums, i + 1, (remainder + nums[i]) % 3, memo) + nums[i];
-        // Exclude nums[i]
-      
-
-        memo[i][remainder] = max(include, exclude);
-        return memo[i][remainder];
+    int maxSumDivThree(vector<int>& A) {
+        vector<int> dp(3);
+        for (int a : A)
+            for (int i : vector<int>(dp))
+                dp[(i + a) % 3] = max(dp[(i + a) % 3], i + a);
+        return dp[0];
     }
 };
