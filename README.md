@@ -627,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0685-redundant-connection-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -805,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -855,10 +857,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
