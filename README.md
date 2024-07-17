@@ -626,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0685-redundant-connection-ii) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
@@ -657,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1293-three-consecutive-odds) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -734,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0726-number-of-atoms) |
 | [0835-linked-list-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0835-linked-list-components) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
@@ -857,12 +860,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
