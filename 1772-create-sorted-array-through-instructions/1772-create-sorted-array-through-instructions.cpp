@@ -5,22 +5,25 @@
 using namespace __gnu_pbds;
 using namespace std;
 
-typedef tree<int, null_type, less_equal<int>, rb_tree_tag,       tree_order_statistics_node_update> pbds;
+  
+#define ordered_set tree<int, null_type,less_equal<int>, rb_tree_tag,tree_order_statistics_node_update> 
 class Solution {
 public:
-    int freq[100001]={0};
-    long long int mod=pow(10,9)+7;
-    int createSortedArray(vector<int>& nums) {
-        int n=nums.size(),ans=0;
-        pbds set;
-        for(int i=0;i<n;i++)
-        {
-            set.insert(nums[i]);
-            freq[nums[i]]++;
-            int count=set.order_of_key(nums[i]);
+     long long int mod=pow(10,9)+7;
 
-            ans=(ans+min(count,i+1-count-freq[nums[i]])%mod)%mod;
+    int createSortedArray(vector<int>& nums) {
+        ordered_set st;
+        int n= nums.size();
+         int   ans=0;
+        vector<int>mp(100001, 0);
+        for(int i=0; i<n; i++){
+             
+             st.insert(nums[i]);
+             mp[nums[i]]++;
+             int count=st.order_of_key(nums[i]);
+             ans=(ans%mod+min(count,i+1-count-mp[nums[i]])%mod)%mod;
         }
-        return ans;
+        return  ans%mod;
     }
 };
+
