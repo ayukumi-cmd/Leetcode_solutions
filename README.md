@@ -664,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1293-three-consecutive-odds) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -843,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1788-stone-game-vi](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1788-stone-game-vi) |
@@ -863,6 +865,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
