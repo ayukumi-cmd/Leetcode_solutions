@@ -647,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
+| [0088-merge-sorted-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -754,11 +755,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0354-russian-doll-envelopes) |
 | [0726-number-of-atoms](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0726-number-of-atoms) |
