@@ -690,6 +690,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2548-destroy-sequential-targets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2548-destroy-sequential-targets) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -756,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2548-destroy-sequential-targets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2548-destroy-sequential-targets) |
 ## Two Pointers
@@ -776,6 +778,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1788-stone-game-vi](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
+| [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2846-robot-collisions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2846-robot-collisions) |
 ## Bitmask
@@ -828,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
+| [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Prefix Sum
 |  |
