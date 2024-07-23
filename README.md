@@ -640,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -648,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0685-redundant-connection-ii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Topological Sort
 |  |
 | ------- |
@@ -918,6 +920,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -931,6 +934,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
