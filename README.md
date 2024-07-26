@@ -732,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2846-robot-collisions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2846-robot-collisions) |
+| [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Union Find
 |  |
@@ -800,6 +801,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2548-destroy-sequential-targets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2548-destroy-sequential-targets) |
+| [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -886,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 ## Counting
 |  |
 | ------- |
