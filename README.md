@@ -728,6 +728,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
@@ -759,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1772-create-sorted-array-through-instructions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1772-create-sorted-array-through-instructions) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Sliding Window
 |  |
 | ------- |
@@ -807,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2548-destroy-sequential-targets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2548-destroy-sequential-targets) |
@@ -833,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1788-stone-game-vi](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2846-robot-collisions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2846-robot-collisions) |
@@ -900,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0732-my-calendar-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0732-my-calendar-iii) |
 | [1240-stone-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 ## Counting
@@ -1022,6 +1027,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0732-my-calendar-iii) |
 | [1772-create-sorted-array-through-instructions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1772-create-sorted-array-through-instructions) |
+| [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Monotonic Stack
 |  |
 | ------- |
