@@ -1,40 +1,32 @@
-
 class Solution {
 public:
     vector<int> fullBloomFlowers(vector<vector<int>>& flowers, vector<int>& people) {
-        unordered_map<int, int> events;
-
-  
-        for (const auto& flower : flowers) {
-            events[flower[0]]++;
-            events[flower[1] + 1]--;
+        int m = flowers.size();
+        int n = people.size();
+        
+        vector<int> result(n);
+        
+        vector<int> start_time(m);
+        vector<int> end_time(m);
+        
+        for(int i = 0; i<m; i++) {
+            start_time[i] = flowers[i][0];
+            end_time[i]   = flowers[i][1];
         }
+        
+        sort(begin(start_time), end(start_time));
+        sort(begin(end_time), end(end_time));
+        
+        for(int i = 0; i<n; i++) {
+          
+            int bloomed_already = upper_bound(begin(start_time), end(start_time), people[i]) - begin(start_time);
+            
+            int died_already    = lower_bound(begin(end_time), end(end_time), people[i]) - begin(end_time);
 
-  
-        vector<pair<int, int>> sortedEvents(events.begin(), events.end());
-        sort(sortedEvents.begin(), sortedEvents.end());
-
-
-        vector<int> bloomCounts;
-        vector<int> times;
-        int currentBloomCount = 0;
-        for (const auto& event : sortedEvents) {
-            currentBloomCount += event.second;
-            times.push_back(event.first);
-            bloomCounts.push_back(currentBloomCount);
+            result[i] = bloomed_already - died_already;
+            
         }
-
-
-        vector<int> result;
-        for (int time : people) {
-            auto it = upper_bound(times.begin(), times.end(), time);
-            if (it == times.begin()) {
-                result.push_back(0);
-            } else {
-                result.push_back(bloomCounts[it - times.begin() - 1]);
-            }
-        }
-
+        
         return result;
     }
 };
