@@ -11,9 +11,7 @@ public:
         }
 
     
-        if (start < -2000 || start > 2000) {
-            return 0;
-        }
+
 
        
         if (dp[start + 2000][steps] != -1) {
