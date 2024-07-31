@@ -14,15 +14,15 @@ public:
 
 
        
-        if (dp[start + 2000][steps] != -1) {
-            return dp[start + 2000][steps];
+        if (dp[start + 1000][steps] != -1) {
+            return dp[start + 1000][steps];
         }
 
         int left = solve(start - 1, steps + 1);
         int right = solve(start + 1, steps + 1);
 
         int ans = (left + right) % mod;
-        dp[start + 2000][steps] = ans;
+        dp[start + 1000][steps] = ans;
 
         return ans;
     }
@@ -32,7 +32,7 @@ public:
         k = ki;
 
 
-        dp.resize(4001, vector<int>(k + 1, -1));
+        dp.resize(3001, vector<int>(k + 1, -1));
 
         return solve(startPos, 0);
     }
