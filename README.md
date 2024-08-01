@@ -638,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2648-number-of-ways-to-earn-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2648-number-of-ways-to-earn-points) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -756,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2548-destroy-sequential-targets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2548-destroy-sequential-targets) |
 | [2591-frog-jump-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2591-frog-jump-ii) |
+| [2648-number-of-ways-to-earn-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2648-number-of-ways-to-earn-points) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2727-number-of-senior-citizens](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
