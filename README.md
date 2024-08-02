@@ -748,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -794,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Rolling Hash
 |  |
 | ------- |
