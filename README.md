@@ -733,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1522-stone-game-iii) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1685-stone-game-v) |
@@ -843,6 +844,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1647-can-convert-string-in-k-moves](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1647-can-convert-string-in-k-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -874,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
