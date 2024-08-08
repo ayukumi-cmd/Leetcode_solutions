@@ -64,13 +64,12 @@ public:
         }
         int ans = INT_MAX;
         for(int i = 1; i <= n; ++i) {
-            if(degree[i] < 2) continue;
+      
             for(int j = i + 1; j <= n; ++j) {
-                if(degree[j] < 2) continue;
-                if (!adj[i][j]) continue;
+
                 for(int k = j + 1; k <=n; ++k) {
-                    if(degree[k] < 2) continue;
-                    if(adj[i][j] && adj[j][k] && adj[k][i]) {
+            
+                 if(adj[i][j] && adj[j][k] && adj[k][i] and degree[i]>=2 and degree[j]>=2 and degree[k]>=2) {
                         ans = min(ans, degree[i] - 2 + degree[j] - 2 + degree[k] - 2);
                     }
                 }
