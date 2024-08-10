@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     int regionsBySlashes(vector<string>& grid) {
@@ -9,14 +8,15 @@ public:
 
         for (int i = 0; i < n; ++i) {
             for (int j = 0; j < m; ++j) {
+                int r2=3*i; int c2= 3*j;
                 if (grid[i][j] == '/') {
-                    g[i * 3][j * 3 + 2] = 1;
-                    g[i * 3 + 1][j * 3 + 1] = 1;
-                    g[i * 3 + 2][j * 3] = 1;
+                    g[r2][c2 + 2] = 1;
+                    g[r2 + 1][c2 + 1] = 1;
+                    g[r2 + 2][c2] = 1;
                 } else if (grid[i][j] == '\\') {
-                    g[i * 3][j * 3] = 1;
-                    g[i * 3 + 1][j * 3 + 1] = 1;
-                    g[i * 3 + 2][j * 3 + 2] = 1;
+                    g[r2][c2] = 1;
+                    g[r2 + 1][c2 + 1] = 1;
+                    g[r2 + 2][c2 + 2] = 1;
                 }
             }
         }
