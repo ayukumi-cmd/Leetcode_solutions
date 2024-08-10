@@ -680,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -769,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1685-stone-game-v) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1720-crawler-log-folder) |
@@ -1077,6 +1080,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -1213,4 +1217,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0273-integer-to-english-words) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
