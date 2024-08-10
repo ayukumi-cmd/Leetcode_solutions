@@ -672,6 +672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0685-redundant-connection-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0685-redundant-connection-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0863-sum-of-distances-in-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1008-binary-tree-cameras](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1008-binary-tree-cameras) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0764-n-ary-tree-level-order-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0945-snakes-and-ladders](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
+| [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -746,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1196-filling-bookcase-shelves) |
@@ -807,6 +810,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0684-redundant-connection](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0685-redundant-connection-ii) |
+| [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 ## Binary Search
@@ -881,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0726-number-of-atoms) |
 | [0835-linked-list-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -1069,6 +1074,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
+| [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
