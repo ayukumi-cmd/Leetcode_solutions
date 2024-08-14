@@ -589,6 +589,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0948-sort-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0948-sort-an-array) |
@@ -734,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0354-russian-doll-envelopes) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0473-matchsticks-to-square](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0518-coin-change-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0518-coin-change-ii) |
