@@ -750,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0835-linked-list-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0921-spiral-matrix-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
@@ -1050,6 +1051,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0890-lemonade-change](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
