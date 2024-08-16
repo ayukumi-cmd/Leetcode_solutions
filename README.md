@@ -743,6 +743,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0587-erect-the-fence) |
+| [0624-maximum-distance-in-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0729-my-calendar-i) |
@@ -1051,6 +1052,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0624-maximum-distance-in-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
