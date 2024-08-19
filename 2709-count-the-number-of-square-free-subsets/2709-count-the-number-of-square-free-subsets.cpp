@@ -7,12 +7,12 @@ public:
         int mask = 0;
         if (num % 2 == 0) {
             mask |= (1 << hash[2]);
-            while (num % 2 == 0) num /= 2;
+            if (num % 2 == 0) num /= 2;
         }
         for (int i = 3; i <= sqrt(num); i += 2) {
             if (num % i == 0) {
                 mask |= (1 << hash[i]);
-                while (num % i == 0) num /= i;
+                if (num % i == 0) num /= i;
             }
         }
         if (num > 2) {
