@@ -560,6 +560,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3217-number-of-possible-sets-of-closing-branches) |
 ## Graph
@@ -655,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2648-number-of-ways-to-earn-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2648-number-of-ways-to-earn-points) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -814,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2648-number-of-ways-to-earn-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2648-number-of-ways-to-earn-points) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2846-robot-collisions) |
 | [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
@@ -889,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2635-check-if-point-is-reachable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2635-check-if-point-is-reachable) |
 | [2645-pass-the-pillow](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2645-pass-the-pillow) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 ## Geometry
 |  |
 | ------- |
@@ -973,6 +977,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 ## Backtracking
 |  |
 | ------- |
