@@ -585,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2793-count-the-number-of-complete-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
@@ -661,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2648-number-of-ways-to-earn-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2648-number-of-ways-to-earn-points) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -700,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2564-most-profitable-path-in-a-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2793-count-the-number-of-complete-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
@@ -827,6 +830,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2846-robot-collisions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2846-robot-collisions) |
 | [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -1159,6 +1163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 ## Binary Tree
 |  |
 | ------- |
