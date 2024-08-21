@@ -611,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -670,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Memoization
 |  |
 | ------- |
@@ -840,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Union Find
 |  |
 | ------- |
@@ -1141,6 +1144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Tree
 |  |
 | ------- |
