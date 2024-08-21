@@ -629,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0518-coin-change-ii) |
+| [0546-remove-boxes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0546-remove-boxes) |
 | [0639-decode-ways-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0639-decode-ways-ii) |
 | [0650-2-keys-keyboard](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0664-strange-printer) |
@@ -673,6 +674,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0546-remove-boxes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0546-remove-boxes) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 ## Depth-First Search
 |  |
@@ -758,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0518-coin-change-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0518-coin-change-ii) |
+| [0546-remove-boxes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0587-erect-the-fence) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
