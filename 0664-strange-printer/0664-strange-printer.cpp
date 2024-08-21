@@ -25,7 +25,7 @@ public:
 
         int aage_ka = INT_MAX;
 
-        for(int j = i; j <= r; j++){
+        for(int j = i+1; j <= r; j++){
             if(s[l] == s[j]){
                 
                 int x = solve(i,j-1,s) + solve(j,r,s);
