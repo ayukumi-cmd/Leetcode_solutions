@@ -561,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2700-substring-xor-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2700-substring-xor-queries) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3217-number-of-possible-sets-of-closing-branches) |
@@ -835,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2648-number-of-ways-to-earn-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2648-number-of-ways-to-earn-points) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
+| [2700-substring-xor-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2700-substring-xor-queries) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
@@ -955,6 +957,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2700-substring-xor-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2700-substring-xor-queries) |
 | [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -1061,6 +1064,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2700-substring-xor-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2700-substring-xor-queries) |
 | [2727-number-of-senior-citizens](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
