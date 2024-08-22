@@ -771,6 +771,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0587-erect-the-fence) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0624-maximum-distance-in-arrays) |
+| [0667-beautiful-arrangement-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0729-my-calendar-i) |
@@ -904,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0477-total-hamming-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0587-erect-the-fence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0587-erect-the-fence) |
 | [0650-2-keys-keyboard](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0650-2-keys-keyboard) |
+| [0667-beautiful-arrangement-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0870-magic-squares-in-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0870-magic-squares-in-grid) |
 | [1033-broken-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1033-broken-calculator) |
 | [1240-stone-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1240-stone-game-ii) |
