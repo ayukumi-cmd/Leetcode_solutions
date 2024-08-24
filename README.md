@@ -906,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0273-integer-to-english-words) |
 | [0477-total-hamming-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
+| [0564-find-the-closest-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0650-2-keys-keyboard) |
@@ -1054,6 +1055,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0564-find-the-closest-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0639-decode-ways-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0639-decode-ways-ii) |
 | [0664-strange-printer](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0664-strange-printer) |
