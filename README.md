@@ -756,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0088-merge-sorted-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
@@ -978,6 +979,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -988,6 +990,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0354-russian-doll-envelopes) |
