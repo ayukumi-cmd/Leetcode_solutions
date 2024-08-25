@@ -912,6 +912,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0477-total-hamming-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
@@ -1065,6 +1066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0224-basic-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0273-integer-to-english-words) |
 | [0433-minimum-genetic-mutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0514-freedom-trail) |
@@ -1159,6 +1161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -1368,6 +1371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0273-integer-to-english-words) |
 ## Strongly Connected Component
 |  |
