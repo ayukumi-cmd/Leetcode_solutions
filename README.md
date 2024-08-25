@@ -761,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0088-merge-sorted-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0149-max-points-on-a-line](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0216-combination-sum-iii) |
 | [0334-increasing-triplet-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -909,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0273-integer-to-english-words) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -937,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0587-erect-the-fence) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -945,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0149-max-points-on-a-line](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
