@@ -698,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0514-freedom-trail](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0514-freedom-trail) |
 | [0684-redundant-connection](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0685-redundant-connection-ii) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0863-sum-of-distances-in-tree) |
@@ -1165,6 +1166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0726-number-of-atoms](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1203,6 +1205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0863-sum-of-distances-in-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0863-sum-of-distances-in-tree) |
