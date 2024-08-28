@@ -584,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -670,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -693,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0546-remove-boxes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0546-remove-boxes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 ## Depth-First Search
 |  |
@@ -773,6 +776,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
 |  |
@@ -999,6 +1003,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1647-can-convert-string-in-k-moves](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1647-can-convert-string-in-k-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
@@ -1154,6 +1159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2548-destroy-sequential-targets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2548-destroy-sequential-targets) |
