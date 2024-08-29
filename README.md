@@ -576,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0922-possible-bipartition](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -715,6 +716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [0863-sum-of-distances-in-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0863-sum-of-distances-in-tree) |
 | [0922-possible-bipartition](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1008-binary-tree-cameras](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1008-binary-tree-cameras) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -897,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0685-redundant-connection-ii) |
 | [0922-possible-bipartition](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0922-possible-bipartition) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2035-count-sub-islands) |
@@ -995,6 +998,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0726-number-of-atoms) |
 | [0835-linked-list-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0870-magic-squares-in-grid) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
