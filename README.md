@@ -793,6 +793,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0085-maximal-rectangle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
@@ -923,6 +924,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
