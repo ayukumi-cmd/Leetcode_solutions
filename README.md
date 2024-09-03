@@ -617,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1962-single-threaded-cpu](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2686-minimum-cost-of-a-path-with-special-roads](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2686-minimum-cost-of-a-path-with-special-roads) |
 | [2803-modify-graph-edge-weights](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2803-modify-graph-edge-weights) |
@@ -887,6 +888,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2332-count-lattice-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [2505-number-of-good-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2505-number-of-good-paths) |
@@ -952,6 +954,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2294-minimum-time-to-complete-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2591-frog-jump-ii) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -961,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Rolling Hash
 |  |
@@ -1198,6 +1202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 ## Counting
@@ -1494,6 +1499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [2449-maximum-number-of-robots-within-budget](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 ## Monotonic Queue
 |  |
 | ------- |
