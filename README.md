@@ -1134,6 +1134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2645-pass-the-pillow](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2645-pass-the-pillow) |
@@ -1166,6 +1167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
