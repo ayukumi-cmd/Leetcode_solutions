@@ -868,6 +868,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1788-stone-game-vi](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [1803-average-waiting-time](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1803-average-waiting-time) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1962-single-threaded-cpu](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -942,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1772-create-sorted-array-through-instructions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1772-create-sorted-array-through-instructions) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -1029,6 +1031,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1647-can-convert-string-in-k-moves](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1647-can-convert-string-in-k-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -1224,6 +1227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1788-stone-game-vi](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2591-frog-jump-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2591-frog-jump-ii) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
