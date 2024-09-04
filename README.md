@@ -767,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1229-shortest-path-with-alternating-colors](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1447-jump-game-iv](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1447-jump-game-iv) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -853,6 +854,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1388-greatest-sum-divisible-by-three](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1447-jump-game-iv](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1447-jump-game-iv) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1037,6 +1039,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [1447-jump-game-iv](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1447-jump-game-iv) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
