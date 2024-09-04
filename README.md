@@ -670,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1466-jump-game-v](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1466-jump-game-v) |
@@ -1181,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1647-can-convert-string-in-k-moves](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1647-can-convert-string-in-k-moves) |
 | [1720-crawler-log-folder](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1720-crawler-log-folder) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
