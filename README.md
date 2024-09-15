@@ -925,6 +925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Union Find
@@ -972,6 +973,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2591-frog-jump-ii) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2665-minimum-time-to-repair-cars) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1125,6 +1127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2846-robot-collisions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Bitmask
 |  |
 | ------- |
@@ -1269,6 +1272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2591-frog-jump-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2591-frog-jump-ii) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3485-maximize-score-of-numbers-in-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Brainteaser
 |  |
 | ------- |
