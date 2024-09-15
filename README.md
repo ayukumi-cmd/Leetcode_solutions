@@ -558,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
@@ -1047,6 +1048,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1447-jump-game-iv](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1447-jump-game-iv) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -1188,6 +1190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1647-can-convert-string-in-k-moves](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1647-can-convert-string-in-k-moves) |
 | [1720-crawler-log-folder](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1720-crawler-log-folder) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -1217,6 +1220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0732-my-calendar-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0732-my-calendar-iii) |
 | [1240-stone-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
