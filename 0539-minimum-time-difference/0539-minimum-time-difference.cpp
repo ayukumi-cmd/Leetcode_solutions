@@ -5,7 +5,7 @@ public:
         sort(times.begin(), times.end());
         int mindiff = INT_MAX;
         for (int i = 0; i < times.size()-1; i++) {
-            int diff = abs(timeDiff(times[(i +1)], times[i]));
+            int diff = abs(timeDiff(times[(i)], times[i+1]));
             diff = min(diff, 1440 - diff);
             mindiff = min(mindiff, diff);
         }
