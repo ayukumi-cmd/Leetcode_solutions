@@ -992,10 +992,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1508-longest-happy-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1508-longest-happy-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1508-longest-happy-prefix) |
 ## Math
 |  |
 | ------- |
@@ -1207,6 +1209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1508-longest-happy-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1508-longest-happy-prefix) |
 | [1647-can-convert-string-in-k-moves](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1647-can-convert-string-in-k-moves) |
 | [1668-find-longest-awesome-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1668-find-longest-awesome-substring) |
 | [1720-crawler-log-folder](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1720-crawler-log-folder) |
@@ -1553,4 +1556,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0686-repeated-string-match) |
+| [1508-longest-happy-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
