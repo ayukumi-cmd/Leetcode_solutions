@@ -652,6 +652,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0354-russian-doll-envelopes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0403-frog-jump) |
+| [0472-concatenated-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 | [0514-freedom-trail](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -726,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0472-concatenated-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0514-freedom-trail](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0514-freedom-trail) |
 | [0684-redundant-connection](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0684-redundant-connection) |
 | [0685-redundant-connection-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0685-redundant-connection-ii) |
@@ -826,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0403-frog-jump) |
 | [0456-132-pattern](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0456-132-pattern) |
+| [0472-concatenated-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0518-coin-change-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0518-coin-change-ii) |
@@ -1198,6 +1201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0273-integer-to-english-words) |
 | [0433-minimum-genetic-mutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0472-concatenated-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0514-freedom-trail](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
@@ -1458,6 +1462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0472-concatenated-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0677-map-sum-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0677-map-sum-pairs) |
 ## Bucket Sort
 |  |
