@@ -671,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1008-binary-tree-cameras](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1008-binary-tree-cameras) |
+| [1057-numbers-with-repeated-digits](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1240-stone-game-ii) |
@@ -1034,6 +1035,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0870-magic-squares-in-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0870-magic-squares-in-grid) |
 | [0949-cat-and-mouse](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0949-cat-and-mouse) |
 | [1033-broken-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1033-broken-calculator) |
+| [1057-numbers-with-repeated-digits](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1240-stone-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1522-stone-game-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1522-stone-game-iii) |
