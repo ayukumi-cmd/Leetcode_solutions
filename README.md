@@ -660,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0546-remove-boxes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0546-remove-boxes) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0639-decode-ways-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0639-decode-ways-ii) |
 | [0650-2-keys-keyboard](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0664-strange-printer) |
