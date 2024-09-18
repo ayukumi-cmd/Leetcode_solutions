@@ -653,6 +653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0354-russian-doll-envelopes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0472-concatenated-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 | [0514-freedom-trail](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0514-freedom-trail) |
@@ -834,6 +835,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0456-132-pattern](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0472-concatenated-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
