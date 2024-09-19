@@ -567,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2700-substring-xor-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2700-substring-xor-queries) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -1271,6 +1272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2577-count-palindromic-subsequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2577-count-palindromic-subsequences) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2700-substring-xor-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2700-substring-xor-queries) |
 | [2727-number-of-senior-citizens](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
