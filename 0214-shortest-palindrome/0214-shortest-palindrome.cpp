@@ -23,6 +23,7 @@ public:
         string s2 = s;
         reverse(s2.begin(), s2.end());
         vector<int> lps = kmp(s + "#" + s2);
+        for(auto it:lps){cout<<it<<" "<<endl;}
         string ans;
         ans+=s2.substr(0, s.size()-lps[lps.size()-1]);
         ans+=s;
