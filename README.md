@@ -1017,12 +1017,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1508-longest-happy-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1508-longest-happy-prefix) |
 ## Math
@@ -1226,6 +1228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0273-integer-to-english-words) |
@@ -1608,6 +1611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
