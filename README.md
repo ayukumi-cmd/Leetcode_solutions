@@ -724,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3518-maximum-multiplication-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3518-maximum-multiplication-score) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Memoization
 |  |
@@ -961,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3518-maximum-multiplication-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3518-maximum-multiplication-score) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Union Find
