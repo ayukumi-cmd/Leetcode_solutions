@@ -717,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2648-number-of-ways-to-earn-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2648-number-of-ways-to-earn-points) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [2755-extra-characters-in-a-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2848-special-permutations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2848-special-permutations) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -954,6 +955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2727-number-of-senior-citizens](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
+| [2755-extra-characters-in-a-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2846-robot-collisions) |
 | [2848-special-permutations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2848-special-permutations) |
 | [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
@@ -1132,6 +1134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2700-substring-xor-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2700-substring-xor-queries) |
+| [2755-extra-characters-in-a-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
@@ -1289,6 +1292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [2700-substring-xor-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2700-substring-xor-queries) |
 | [2727-number-of-senior-citizens](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
@@ -1519,6 +1523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0472-concatenated-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0677-map-sum-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0677-map-sum-pairs) |
 | [1397-search-suggestions-system](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1397-search-suggestions-system) |
+| [2755-extra-characters-in-a-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
