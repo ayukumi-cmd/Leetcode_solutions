@@ -962,6 +962,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3518-maximum-multiplication-score) |
@@ -1137,6 +1138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1295,6 +1297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1524,6 +1527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0677-map-sum-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0677-map-sum-pairs) |
 | [1397-search-suggestions-system](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1397-search-suggestions-system) |
 | [2755-extra-characters-in-a-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bucket Sort
 |  |
 | ------- |
