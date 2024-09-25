@@ -880,6 +880,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0981-delete-columns-to-make-sorted](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [0989-largest-component-size-by-common-factor](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
@@ -981,6 +982,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0922-possible-bipartition) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0989-largest-component-size-by-common-factor](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
@@ -1064,6 +1066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0667-beautiful-arrangement-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0870-magic-squares-in-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0870-magic-squares-in-grid) |
 | [0949-cat-and-mouse](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0949-cat-and-mouse) |
+| [0989-largest-component-size-by-common-factor](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1033-broken-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1033-broken-calculator) |
 | [1057-numbers-with-repeated-digits](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1240-stone-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1240-stone-game-ii) |
@@ -1108,6 +1111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0989-largest-component-size-by-common-factor](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1555,6 +1559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [2635-check-if-point-is-reachable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2635-check-if-point-is-reachable) |
 ## Line Sweep
 |  |
