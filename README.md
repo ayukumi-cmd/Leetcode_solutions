@@ -964,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3376-longest-common-suffix-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3376-longest-common-suffix-queries) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3518-maximum-multiplication-score) |
@@ -1300,6 +1301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3376-longest-common-suffix-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3376-longest-common-suffix-queries) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1532,6 +1534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3376-longest-common-suffix-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3376-longest-common-suffix-queries) |
 ## Bucket Sort
 |  |
 | ------- |
