@@ -1,9 +1,23 @@
-# Write your MySQL query statement below
-SELECT COALESCE(
-  (SELECT num
-  FROM MyNumbers
-  GROUP BY num
-  HAVING COUNT(num) = 1
-  ORDER BY num DESC
-  LIMIT 1), null) 
-  AS num
+WITH solve AS (
+    SELECT 
+        num AS number, 
+        COUNT(num) AS cnt
+    FROM 
+        MyNumbers
+    GROUP BY 
+        num
+    ORDER BY 
+        num
+),
+final AS (
+    SELECT 
+        MAX(s.number) AS xd
+    FROM 
+        solve AS s
+    WHERE 
+        s.cnt = 1
+)
+SELECT 
+    f.xd as num 
+FROM 
+    final AS f;
