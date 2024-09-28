@@ -11,13 +11,16 @@ WITH solve AS (
 ),
 final AS (
     SELECT 
-        MAX(s.number) AS xd
+        CASE 
+            WHEN MAX(n.number) IS NOT NULL THEN MAX(n.number)
+            ELSE NULL
+        END AS xd
     FROM 
-        solve AS s
+        solve AS n
     WHERE 
-        s.cnt = 1
+        n.cnt = 1
 )
 SELECT 
-    f.xd as num 
+    f.xd  as num
 FROM 
     final AS f;
