@@ -657,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0354-russian-doll-envelopes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0403-frog-jump) |
@@ -1052,6 +1053,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0224-basic-calculator) |
@@ -1431,6 +1433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -1464,6 +1467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
@@ -1524,6 +1528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
