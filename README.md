@@ -660,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0354-russian-doll-envelopes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0354-russian-doll-envelopes) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0403-frog-jump](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0472-concatenated-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0472-concatenated-words) |
@@ -1060,6 +1061,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0273-integer-to-english-words) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0477-total-hamming-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0539-minimum-time-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
@@ -1223,6 +1225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
