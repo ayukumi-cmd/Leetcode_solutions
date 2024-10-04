@@ -960,6 +960,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2548-destroy-sequential-targets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2548-destroy-sequential-targets) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2591-frog-jump-ii) |
 | [2648-number-of-ways-to-earn-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2648-number-of-ways-to-earn-points) |
@@ -1157,6 +1158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2505-number-of-good-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2505-number-of-good-paths) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2548-destroy-sequential-targets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2548-destroy-sequential-targets) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -1181,6 +1183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
@@ -1214,6 +1217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [2505-number-of-good-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2505-number-of-good-paths) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2846-robot-collisions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2846-robot-collisions) |
