@@ -948,6 +948,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2294-minimum-time-to-complete-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
@@ -1030,6 +1031,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1977-minimum-interval-to-include-each-query](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2294-minimum-time-to-complete-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2294-minimum-time-to-complete-trips) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
@@ -1218,6 +1220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1962-single-threaded-cpu](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [2505-number-of-good-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2505-number-of-good-paths) |
@@ -1397,6 +1400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2591-frog-jump-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2591-frog-jump-ii) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
