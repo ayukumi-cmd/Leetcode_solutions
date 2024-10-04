@@ -859,6 +859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0472-concatenated-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
@@ -1074,6 +1075,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0398-random-pick-index) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0539-minimum-time-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0564-find-the-closest-palindrome) |
