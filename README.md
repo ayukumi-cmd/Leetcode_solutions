@@ -937,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1830-count-good-meals](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1830-count-good-meals) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
+| [1923-sentence-similarity-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1962-single-threaded-cpu](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -1198,6 +1199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
+| [1923-sentence-similarity-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1334,6 +1336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1897-maximize-palindrome-length-from-subsequences) |
+| [1923-sentence-similarity-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [2044-number-of-wonderful-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
