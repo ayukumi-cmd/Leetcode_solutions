@@ -1100,6 +1100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1057-numbers-with-repeated-digits](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1057-numbers-with-repeated-digits) |
 | [1240-stone-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1359-circular-permutation-in-binary-representation) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1522-stone-game-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1522-stone-game-iii) |
 | [1642-water-bottles](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -1326,6 +1327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1397-search-suggestions-system](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1397-search-suggestions-system) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1413,6 +1415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0902-minimum-number-of-refueling-stops](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1033-broken-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1033-broken-calculator) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
