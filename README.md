@@ -720,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2397-count-number-of-ways-to-place-houses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2457-count-special-integers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2457-count-special-integers) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2577-count-palindromic-subsequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2577-count-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2648-number-of-ways-to-earn-points](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2648-number-of-ways-to-earn-points) |
@@ -968,6 +969,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2502-sort-the-people) |
 | [2505-number-of-good-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2505-number-of-good-paths) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2548-destroy-sequential-targets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2548-destroy-sequential-targets) |
@@ -1565,11 +1567,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1772-create-sorted-array-through-instructions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1772-create-sorted-array-through-instructions) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1511-count-number-of-teams) |
 | [1772-create-sorted-array-through-instructions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1772-create-sorted-array-through-instructions) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1577,6 +1581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0732-my-calendar-iii) |
 | [1772-create-sorted-array-through-instructions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1772-create-sorted-array-through-instructions) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1731,10 +1736,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [2526-longest-increasing-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 ## String Matching
 |  |
 | ------- |
