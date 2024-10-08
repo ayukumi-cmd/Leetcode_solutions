@@ -898,6 +898,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1028-interval-list-intersections](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1028-interval-list-intersections) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1130-last-stone-weight-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1130-last-stone-weight-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -1199,6 +1200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1028-interval-list-intersections](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1028-interval-list-intersections) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
