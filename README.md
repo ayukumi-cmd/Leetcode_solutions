@@ -1333,6 +1333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1508-longest-happy-prefix) |
 | [1647-can-convert-string-in-k-moves](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1647-can-convert-string-in-k-moves) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1668-find-longest-awesome-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1668-find-longest-awesome-substring) |
 | [1720-crawler-log-folder](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1720-crawler-log-folder) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -1420,6 +1421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1388-greatest-sum-divisible-by-three](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1788-stone-game-vi](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1788-stone-game-vi) |
@@ -1458,6 +1460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1720-crawler-log-folder](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
