@@ -899,6 +899,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1002-maximum-width-ramp](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1028-interval-list-intersections) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
@@ -1472,6 +1473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1605,6 +1607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Binary Search Tree
 |  |
