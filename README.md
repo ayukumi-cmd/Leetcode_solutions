@@ -1600,6 +1600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0732-my-calendar-iii) |
 | [1772-create-sorted-array-through-instructions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1772-create-sorted-array-through-instructions) |
+| [2357-count-integers-in-intervals](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2357-count-integers-in-intervals) |
 | [2526-longest-increasing-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2526-longest-increasing-subsequence-ii) |
 ## Merge Sort
 |  |
@@ -1615,6 +1616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0732-my-calendar-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0732-my-calendar-iii) |
 | [1772-create-sorted-array-through-instructions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1772-create-sorted-array-through-instructions) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2357-count-integers-in-intervals](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2357-count-integers-in-intervals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1642,6 +1644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0859-design-circular-deque) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2357-count-integers-in-intervals](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2357-count-integers-in-intervals) |
 ## Trie
 |  |
 | ------- |
