@@ -1358,6 +1358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1508-longest-happy-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1508-longest-happy-prefix) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1647-can-convert-string-in-k-moves](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1647-can-convert-string-in-k-moves) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1668-find-longest-awesome-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1668-find-longest-awesome-substring) |
@@ -1417,6 +1418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
