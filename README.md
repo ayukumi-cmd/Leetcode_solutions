@@ -1374,6 +1374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
@@ -1460,6 +1461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1500,6 +1502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2846-robot-collisions) |
 ## Matrix
@@ -1627,6 +1630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Binary Search Tree
 |  |
 | ------- |
