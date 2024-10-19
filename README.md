@@ -568,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2044-number-of-wonderful-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
@@ -645,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2290-removing-minimum-number-of-magic-beans](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2290-removing-minimum-number-of-magic-beans) |
 | [2332-count-lattice-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2332-count-lattice-points-inside-a-circle) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3217-number-of-possible-sets-of-closing-branches) |
@@ -962,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2256-count-words-obtained-after-adding-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2256-count-words-obtained-after-adding-a-letter) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2263-maximum-running-time-of-n-computers) |
@@ -1299,6 +1302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Linked List
 |  |
 | ------- |
