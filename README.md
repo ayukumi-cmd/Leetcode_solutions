@@ -1182,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1647-can-convert-string-in-k-moves](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1647-can-convert-string-in-k-moves) |
 | [1668-find-longest-awesome-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1668-find-longest-awesome-substring) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1830-count-good-meals](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1830-count-good-meals) |
@@ -1302,6 +1303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0813-all-paths-from-source-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1377,6 +1379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1668-find-longest-awesome-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1668-find-longest-awesome-substring) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1720-crawler-log-folder) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
