@@ -667,6 +667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0087-scramble-string) |
 | [0096-unique-binary-search-trees](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
@@ -1348,6 +1349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0087-scramble-string) |
 | [0179-largest-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
