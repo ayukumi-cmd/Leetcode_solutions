@@ -552,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -1107,6 +1108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0149-max-points-on-a-line) |
