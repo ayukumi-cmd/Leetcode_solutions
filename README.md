@@ -708,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1388-greatest-sum-divisible-by-three) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -935,6 +936,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1388-greatest-sum-divisible-by-three](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1388-greatest-sum-divisible-by-three) |
 | [1397-search-suggestions-system](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1397-search-suggestions-system) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1447-jump-game-iv](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1447-jump-game-iv) |
@@ -1561,6 +1563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
