@@ -741,6 +741,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2755-extra-characters-in-a-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2848-special-permutations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2848-special-permutations) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -1015,6 +1016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2727-number-of-senior-citizens](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2727-number-of-senior-citizens) |
 | [2739-minimize-the-total-price-of-the-trips](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2755-extra-characters-in-a-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2846-robot-collisions) |
 | [2848-special-permutations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2848-special-permutations) |
 | [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
@@ -1572,6 +1574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Tree
 |  |
