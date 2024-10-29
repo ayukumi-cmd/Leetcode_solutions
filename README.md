@@ -820,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0685-redundant-connection-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0685-redundant-connection-ii) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0813-all-paths-from-source-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0813-all-paths-from-source-to-target) |
+| [0833-bus-routes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0833-bus-routes) |
 | [0854-making-a-large-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0922-possible-bipartition](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0922-possible-bipartition) |
@@ -903,6 +904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0833-bus-routes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0833-bus-routes) |
 | [0835-linked-list-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0835-linked-list-components) |
 | [0854-making-a-large-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0859-design-circular-deque) |
@@ -1183,6 +1185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0677-map-sum-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0726-number-of-atoms) |
+| [0833-bus-routes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0833-bus-routes) |
 | [0835-linked-list-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0906-walking-robot-simulation) |
