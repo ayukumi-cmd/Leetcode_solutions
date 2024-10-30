@@ -717,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1466-jump-game-v](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1466-jump-game-v) |
 | [1511-count-number-of-teams](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1522-stone-game-iii) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1685-stone-game-v](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1685-stone-game-v) |
@@ -760,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0546-remove-boxes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0546-remove-boxes) |
 | [0949-cat-and-mouse](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0949-cat-and-mouse) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
@@ -953,6 +955,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1522-stone-game-iii) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1579,6 +1582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2035-count-sub-islands) |
