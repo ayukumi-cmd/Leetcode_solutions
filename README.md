@@ -623,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0630-course-schedule-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0630-course-schedule-iii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -820,6 +821,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0133-clone-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0133-clone-graph) |
+| [0407-trapping-rain-water-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0514-freedom-trail) |
 | [0684-redundant-connection](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0684-redundant-connection) |
@@ -890,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0403-frog-jump) |
+| [0407-trapping-rain-water-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0413-arithmetic-slices](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -1578,6 +1581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0870-magic-squares-in-grid) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0895-shortest-path-to-get-all-keys) |
