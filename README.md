@@ -567,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1668-find-longest-awesome-substring](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1668-find-longest-awesome-substring) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1906-maximize-score-after-n-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2044-number-of-wonderful-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -730,6 +731,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1808-stone-game-vii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1808-stone-game-vii) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1897-maximize-palindrome-length-from-subsequences) |
+| [1906-maximize-score-after-n-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -983,6 +985,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1830-count-good-meals](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1830-count-good-meals) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
+| [1906-maximize-score-after-n-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1923-sentence-similarity-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1962-single-threaded-cpu](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1962-single-threaded-cpu) |
@@ -1166,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1685-stone-game-v](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1685-stone-game-v) |
 | [1788-stone-game-vi](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1788-stone-game-vi) |
 | [1808-stone-game-vii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1808-stone-game-vii) |
+| [1906-maximize-score-after-n-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
@@ -1329,6 +1333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
+| [1906-maximize-score-after-n-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2709-count-the-number-of-square-free-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2709-count-the-number-of-square-free-subsets) |
 | [2848-special-permutations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2848-special-permutations) |
@@ -1347,6 +1352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1418-fair-distribution-of-cookies](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1418-fair-distribution-of-cookies) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
+| [1906-maximize-score-after-n-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [2107-find-unique-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Linked List
@@ -1759,6 +1765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0989-largest-component-size-by-common-factor](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0989-largest-component-size-by-common-factor) |
+| [1906-maximize-score-after-n-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [2635-check-if-point-is-reachable](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2635-check-if-point-is-reachable) |
 ## Line Sweep
 |  |
