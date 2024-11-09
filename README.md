@@ -760,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3140-count-visited-nodes-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3140-count-visited-nodes-in-a-directed-graph) |
 | [3178-minimum-increment-operations-to-make-array-beautiful](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3178-minimum-increment-operations-to-make-array-beautiful) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3518-maximum-multiplication-score) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
@@ -1053,6 +1054,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3376-longest-common-suffix-queries) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3518-maximum-multiplication-score) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -1263,6 +1265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3034-points-that-intersect-with-cars](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3034-points-that-intersect-with-cars) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3487-find-maximum-removals-from-source-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1284,6 +1287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-total-cost-to-hire-k-workers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3195-separate-black-and-white-balls) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3487-find-maximum-removals-from-source-string) |
 ## Sorting
 |  |
 | ------- |
@@ -1470,6 +1474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3376-longest-common-suffix-queries](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3376-longest-common-suffix-queries) |
 | [3451-string-compression-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3451-string-compression-iii) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3487-find-maximum-removals-from-source-string) |
 ## Prefix Sum
 |  |
 | ------- |
