@@ -583,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2848-special-permutations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2848-special-permutations) |
 | [3217-number-of-possible-sets-of-closing-branches](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3217-number-of-possible-sets-of-closing-branches) |
+| [3394-minimum-array-end](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3394-minimum-array-end) |
 ## Graph
 |  |
 | ------- |
