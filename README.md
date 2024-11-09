@@ -568,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1906-maximize-score-after-n-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
+| [1940-maximum-xor-for-each-query](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2044-number-of-wonderful-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -989,6 +990,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1906-maximize-score-after-n-operations](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1906-maximize-score-after-n-operations) |
 | [1923-sentence-similarity-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [1940-maximum-xor-for-each-query](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1962-single-threaded-cpu](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1962-single-threaded-cpu) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
@@ -1478,6 +1480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1940-maximum-xor-for-each-query](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2044-number-of-wonderful-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2044-number-of-wonderful-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
