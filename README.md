@@ -922,6 +922,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0816-design-hashset](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [0833-bus-routes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0833-bus-routes) |
 | [0835-linked-list-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0835-linked-list-components) |
 | [0854-making-a-large-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0854-making-a-large-island) |
@@ -1144,6 +1145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0187-repeated-dna-sequences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0816-design-hashset](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [1508-longest-happy-prefix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1508-longest-happy-prefix) |
 ## Math
 |  |
@@ -1224,6 +1226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0677-map-sum-pairs](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0677-map-sum-pairs) |
 | [0726-number-of-atoms](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0726-number-of-atoms) |
+| [0816-design-hashset](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [0833-bus-routes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0833-bus-routes) |
 | [0835-linked-list-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0835-linked-list-components) |
 | [0870-magic-squares-in-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0870-magic-squares-in-grid) |
@@ -1384,6 +1387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0460-lfu-cache) |
+| [0816-design-hashset](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1484-linked-list-in-binary-tree) |
@@ -1768,6 +1772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [0859-design-circular-deque](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0859-design-circular-deque) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
