@@ -1397,6 +1397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1708-design-parking-system](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1708-design-parking-system) |
 | [1803-average-waiting-time](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -1521,6 +1522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0920-uncommon-words-from-two-sentences](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1708-design-parking-system](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1708-design-parking-system) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1770,6 +1772,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1582-design-browser-history) |
+| [1708-design-parking-system](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1708-design-parking-system) |
 | [2357-count-integers-in-intervals](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2357-count-integers-in-intervals) |
 ## Trie
 |  |
