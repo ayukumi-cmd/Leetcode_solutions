@@ -971,6 +971,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1522-stone-game-iii) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1582-design-browser-history](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1582-design-browser-history) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -1386,6 +1387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-linked-list-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1484-linked-list-in-binary-tree) |
+| [1582-design-browser-history](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1582-design-browser-history) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -1603,6 +1605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1720-crawler-log-folder](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1720-crawler-log-folder) |
@@ -1766,6 +1769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0859-design-circular-deque) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1582-design-browser-history](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1582-design-browser-history) |
 | [2357-count-integers-in-intervals](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2357-count-integers-in-intervals) |
 ## Trie
 |  |
@@ -1875,6 +1879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1582-design-browser-history) |
 ## Randomized
 |  |
 | ------- |
@@ -1904,6 +1909,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0460-lfu-cache) |
+| [1582-design-browser-history](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1582-design-browser-history) |
 ## Reservoir Sampling
 |  |
 | ------- |
