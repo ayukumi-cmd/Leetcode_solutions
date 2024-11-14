@@ -1181,6 +1181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1240-stone-game-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1240-stone-game-ii) |
 | [1359-circular-permutation-in-binary-representation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1359-circular-permutation-in-binary-representation) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1522-stone-game-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1522-stone-game-iii) |
 | [1642-water-bottles](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -1395,6 +1396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0816-design-hashset](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0816-design-hashset) |
 | [0835-linked-list-components](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0859-design-circular-deque) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1582-design-browser-history) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2299-merge-nodes-in-between-zeros) |
