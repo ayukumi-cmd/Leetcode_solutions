@@ -1289,6 +1289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1389,6 +1390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0432-all-oone-data-structure) |
