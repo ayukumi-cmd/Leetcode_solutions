@@ -976,6 +976,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1685-stone-game-v](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1685-stone-game-v) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -1102,6 +1103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1772-create-sorted-array-through-instructions](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1772-create-sorted-array-through-instructions) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
@@ -1299,6 +1301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1028-interval-list-intersections](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1028-interval-list-intersections) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1923-sentence-similarity-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -1625,6 +1628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-design-browser-history](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1720-crawler-log-folder](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1764,6 +1768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2157-smallest-k-length-subsequence-with-occurrences-of-a-letter](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2157-smallest-k-length-subsequence-with-occurrences-of-a-letter) |
 ## Binary Search Tree
 |  |
