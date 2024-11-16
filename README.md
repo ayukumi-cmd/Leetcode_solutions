@@ -1064,6 +1064,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3487-find-maximum-removals-from-source-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3518-maximum-multiplication-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3518-maximum-multiplication-score) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3550-maximum-value-sum-by-placing-three-rooks-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3550-maximum-value-sum-by-placing-three-rooks-i) |
 ## Union Find
@@ -1136,6 +1137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Rolling Hash
 |  |
 | ------- |
