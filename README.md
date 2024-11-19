@@ -1035,6 +1035,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2548-destroy-sequential-targets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2548-destroy-sequential-targets) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1140,6 +1141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2449-maximum-number-of-robots-within-budget](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2449-maximum-number-of-robots-within-budget) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Rolling Hash
@@ -1279,6 +1281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2505-number-of-good-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2505-number-of-good-paths) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2548-destroy-sequential-targets](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2548-destroy-sequential-targets) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
