@@ -951,6 +951,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1130-last-stone-weight-ii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1253,6 +1254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0989-largest-component-size-by-common-factor](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1087-longest-arithmetic-subsequence) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1447-jump-game-iv](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1447-jump-game-iv) |
@@ -1665,6 +1667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-spiral-matrix-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0999-regions-cut-by-slashes) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1379-reconstruct-a-2-row-binary-matrix](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1379-reconstruct-a-2-row-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
