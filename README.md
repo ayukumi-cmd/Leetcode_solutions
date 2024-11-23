@@ -911,6 +911,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0472-concatenated-words](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
+| [0496-next-greater-element-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0518-coin-change-ii) |
 | [0526-beautiful-arrangement](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0539-minimum-time-difference](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0539-minimum-time-difference) |
@@ -1242,6 +1243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0433-minimum-genetic-mutation](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0460-lfu-cache) |
+| [0496-next-greater-element-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1637,6 +1639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0456-132-pattern](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -1792,6 +1795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1002-maximum-width-ramp](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1002-maximum-width-ramp) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
