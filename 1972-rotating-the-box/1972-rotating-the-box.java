@@ -8,12 +8,11 @@ class Solution {
             for(int j = c-1; j>=0; --j){
                 if(box[i][j] == '*'){
                     empty = j-1;
-                     continue;
                 }
-                if(box[i][j] == '#'){
+              else if(box[i][j] == '#'){
                     box[i][j] = '.';
                     box[i][empty] = '#';
-                    --empty;
+                    empty--;
                 }
             }
         }
