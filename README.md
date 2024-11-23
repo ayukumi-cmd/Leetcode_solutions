@@ -1003,6 +1003,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1962-single-threaded-cpu](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1962-single-threaded-cpu) |
+| [1972-rotating-the-box](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1972-rotating-the-box) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -1322,6 +1323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1923-sentence-similarity-iii](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -1680,6 +1682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1972-rotating-the-box](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2035-count-sub-islands) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2250-k-highest-ranked-items-within-a-price-range](https://github.com/ayukumi-cmd/Leetcode_solutions/tree/master/2250-k-highest-ranked-items-within-a-price-range) |
